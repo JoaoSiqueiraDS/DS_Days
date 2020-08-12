@@ -3,5 +3,5 @@
 
 Day 1 10/08 - Study of the Paper "A Gentle Introduction to Exploratory Data Analysis"
 
-
+Day 2 11/08 - Harvard Python course - Classes and object-oriented programming
 
