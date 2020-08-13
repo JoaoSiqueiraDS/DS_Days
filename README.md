@@ -7,5 +7,5 @@ Day 2 11/08 - Harvard Python course - Classes and object-oriented programming
 
 Day 3 - 12/08 - Doc stuff
 
-Day 4- 1/08 - Doc stuff
+Day 4- 13/08 - Doc stuff
 
