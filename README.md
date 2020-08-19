@@ -9,3 +9,10 @@ Day 3 - 12/08 - Doc stuff
 
 Day 4- 13/08 - Doc stuff
 
+.
+.
+.
+.
+
+Day 5 - 19/08 - OOP Python
+
