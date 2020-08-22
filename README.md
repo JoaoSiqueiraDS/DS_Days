@@ -16,5 +16,5 @@ Day 4- 13/08 - Doc stuff
 
 Day 5 - 19/08 - OOP Python
 
-Day 6 - 21/08 - Exploratory Data Analysis: A Practical Guide and Template for Structured Data
+Day 6 - 21/08 - Exploratory Data Analysis: A Practical Guide and Template for Structured Data; Harvar Course, DSNP
 
