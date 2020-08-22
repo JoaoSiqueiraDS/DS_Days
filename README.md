@@ -18,3 +18,5 @@ Day 5 - 19/08 - OOP Python
 
 Day 6 - 21/08 - Exploratory Data Analysis: A Practical Guide and Template for Structured Data; Harvar Course, DSNP
 
+Day 7 - Corey Schafer - OOP
+
