@@ -20,3 +20,7 @@ Day 6 - 21/08 - Exploratory Data Analysis: A Practical Guide and Template for St
 
 Day 7 - Corey Schafer - OOP and Harvard Python Course - Matplotlib Pyplot
 
+Day 8 - Corey Schafer - OOP and Harvard Python Course - Matplotlib Pyplot
+
+Day 9 - 
+
