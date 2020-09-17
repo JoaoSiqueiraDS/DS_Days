@@ -3,4 +3,6 @@
 
 Day 1 03/08 - Inheritance OOP, Code war
 
+Day 2 17/08 - OOP, Code War, DNSP project
+
 
